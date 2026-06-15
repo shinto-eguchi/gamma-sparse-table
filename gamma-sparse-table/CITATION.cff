@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript."
+title: "Log-Gamma Estimation for Sparse Contingency Tables under High-Leverage Sparse Noise"
+authors:
+  - family-names: Eguchi
+    given-names: Shinto
+    email: eguchi@ism.ac.jp
+year: 2026
+license: MIT
+repository-code: "https://github.com/shinto-eguchi/gamma-sparse-table"
